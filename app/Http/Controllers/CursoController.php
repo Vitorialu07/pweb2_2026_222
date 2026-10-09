@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Charts\CursoChart;
-use App\Charts\AlunoChart;
+use App\Charts\QtdAlunoCursoChart;
 use App\Models\Curso;
 use Illuminate\Http\Request;
 use Barryvdh\DomPDF\Facade\Pdf;
