@@ -33,6 +33,9 @@ Código-Fonte do Projeto desenvolvido durante as aulas de programação web 2 co
 **5. Acessar o sistema**  
 `http://localhost:8000/`
 
+
+composer require barryvdh/laravel-dompdf
+
 ----
 ## Diretorios mais usados do projeto
 #### Arquitetura de uma Aplicação em Laravel
